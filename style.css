@@ -1,9 +1,12 @@
-
+body {
+    background-color: rgb(223, 165, 132);
+}
 
 
 
 
 
 .nav-links li {
-  display: inline;
+  display: inline-block;
+  width: 200px;
 }
