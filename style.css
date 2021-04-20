@@ -17,9 +17,12 @@ filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#00FFCC", en
 .itens
 {
  color: rgba(241, 19, 19, 0.774);
- font-style: italic;
-
+ font-style: italic; 
 } 
+.paragrafos{
+  background-color: cornsilk;
+  width: 700px;
+}
 .nav-links li {
   display: inline-block;
   width: 200px;
